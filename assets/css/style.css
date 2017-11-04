@@ -68,6 +68,11 @@ footer {
 	background: #4aaaa5;
 }
 
+.navbar-default .navbar-brand:focus, .navbar-default .navbar-brand:hover {
+    color: #5e5e5e;
+    background-color: #4aaaa5;
+}
+
 h1,
 h2,
 h3 {
